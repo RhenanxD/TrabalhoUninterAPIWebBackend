@@ -13,3 +13,5 @@ Seguindo padrões REST
 Todos os Critérios seguidos!
 
 Este projeto é acadêmico e utiliza credenciais genéricas (`root/Root@1234`) apenas para fins de teste em ambiente local.
+
+Feito por RHENAN HENRIQUE LEITE - RU 4847946
